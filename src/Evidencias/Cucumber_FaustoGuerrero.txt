@@ -1,3 +1,8 @@
 https://github.com/wariormex/CucumberTest
 
 Codigo separado del proyecto original en el repositorio
+
+En caso de encontrar un error en el cual la prueba no encuentra al proyecto original, 
+-darle click derecho al feature, run as, run configurations
+-En cucumber features, si este esta vacio, agregar uno por feature donde el proyecto sea el correcto y la direccion del feature sea la del feature en cuestion
+-Darle run para guardar la configuracion del feature
