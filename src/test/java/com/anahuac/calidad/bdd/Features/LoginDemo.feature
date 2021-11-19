@@ -6,3 +6,5 @@ Feature: Test login functionality
     When user enter username and password
     And user clicks on login button
     Then the page reacts according to the case:
+
+ #Launch Configuration LoginDemo.feature_P2.launch

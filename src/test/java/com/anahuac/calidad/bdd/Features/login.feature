@@ -7,3 +7,5 @@ Feature: feature to test functionallity
     When user enter username and password
     And click in login button
     Then user is navigated to the home page
+
+#Launch Configuration login.feature_P2.launch
